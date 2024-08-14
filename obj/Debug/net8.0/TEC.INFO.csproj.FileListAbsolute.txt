@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TEC.INFO\bin\Debug\net8.0\TEC.INFO.exe
+C:\Users\Aluno\Desktop\TEC.INFO\bin\Debug\net8.0\TEC.INFO.deps.json
+C:\Users\Aluno\Desktop\TEC.INFO\bin\Debug\net8.0\TEC.INFO.runtimeconfig.json
+C:\Users\Aluno\Desktop\TEC.INFO\bin\Debug\net8.0\TEC.INFO.dll
+C:\Users\Aluno\Desktop\TEC.INFO\bin\Debug\net8.0\TEC.INFO.pdb
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.dll
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\refint\TEC.INFO.dll
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.pdb
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\ref\TEC.INFO.dll
