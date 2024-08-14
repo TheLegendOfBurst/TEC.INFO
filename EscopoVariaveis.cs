@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 namespace CursoCSharp
 {
@@ -47,3 +47,4 @@ namespace CursoCSharp
         }
     }
 }
+ */

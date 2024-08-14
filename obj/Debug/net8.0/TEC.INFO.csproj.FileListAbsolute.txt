@@ -12,3 +12,4 @@ C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\refint\TEC.INFO.dll
 C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.pdb
 C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.genruntimeconfig.cache
 C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\ref\TEC.INFO.dll
+C:\Users\Aluno\Desktop\TEC.INFO\obj\Debug\net8.0\TEC.INFO.sourcelink.json
