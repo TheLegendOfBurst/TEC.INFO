@@ -142,3 +142,34 @@ PessoaNova pessoa = new PessoaNova
 pessoa.ExibirDetalhes();
 
  */
+
+/*  Variavel exemplo = new Variavel();
+exemplo.Soma(2, 4);
+exemplo.ExibirInformacoes();
+
+ int[] idadesTeste = { 16, 18, 20, 25, 17 };
+
+foreach (int idade in idadesTeste)
+{
+    bool resultado = exemplo.VerificarMaioridade(idade);
+    Console.WriteLine($"Idade: {idade} - Maior de idade? {resultado}");
+}
+
+exemplo.ExibirAltura();  */
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            // Criando uma instância da classe Sobrecarga
+            Sobrecarga calculadora = new Sobrecarga();
+
+            // Calculando a área de um círculo com raio 5
+            calculadora.CalcularArea(5);
+
+            // Calculando a área de um retângulo com largura 10 e altura 20
+            calculadora.CalcularArea(10, 20);
+        }
+    }
+
+
