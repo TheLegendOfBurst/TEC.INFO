@@ -1,0 +1,44 @@
+/* 2. Implemente um construtor na classe Livro que inicialize os atributos `titulo`, `autor`, `anoPublicacao` e `numeroPaginas`. Demonstre o uso do construtor ao instanciar um objeto da classe Livro. */
+
+
+
+
+/* 3. Adicione um método `ExibirDetalhes` na classe Livro que exiba os detalhes do livro. Certifique-se de acessar os atributos `private` através das propriedades `públicas`. */
+
+
+
+
+/* 4. Crie uma classe Biblioteca com uma lista privada de Livro representando o acervo. Adicione métodos públicos para adicionar e remover livros do acervo, garantindo que a lista só seja manipulada através desses métodos. */
+
+
+
+
+/* 5. Implemente um método `BuscarLivroPorTitulo` na classe Biblioteca que permita procurar um livro pelo título. Utilize encapsulamento para garantir que o acesso ao acervo seja controlado. */
+
+
+
+
+/* 6. Adicione um método `ListarLivros` na classe Biblioteca que exiba todos os livros. Use o método `ExibirDetalhes` da classe Livro para acessar os atributos privados de cada livro. */
+
+
+
+
+/* 7. Crie uma classe Usuario com os atributos privados `nome` e `cpf`, e uma lista privada de Livro representando os livros emprestados. Adicione métodos para emprestar e devolver livros, garantindo que a lista seja manipulada de forma encapsulada. */
+
+
+
+
+/* 8. Implemente um método `ExibirLivrosEmprestados` na classe Usuario que exiba todos os livros emprestados. Teste o método, certificando-se de que o acesso aos livros seja feito de forma encapsulada. */
+
+
+
+
+/* 9. Adicione um método `DevolverLivro` na classe Usuario que permita devolver um livro à biblioteca, garantindo a integridade dos dados com encapsulamento. Teste o método para garantir que o livro seja removido da lista de livros emprestados. */
+
+
+
+
+/* 10. Utilize encapsulamento para proteger a integridade dos dados ao implementar o método `EmprestarLivro` na classe Biblioteca. Certifique-se de que a lista de livros seja acessível apenas por métodos controlados. */
+
+
+

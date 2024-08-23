@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 namespace CursoCSharp
 {
@@ -32,4 +32,4 @@ namespace CursoCSharp
             Console.WriteLine($"Número de pessoas criadas: {NumeroDePessoas}");
         }
     }
-}
+} */
