@@ -143,11 +143,11 @@ pessoa.ExibirDetalhes();
 
  */
 
-/*  Variavel exemplo = new Variavel();
+/* Variavel exemplo = new Variavel();
 exemplo.Soma(2, 4);
 exemplo.ExibirInformacoes();
 
- int[] idadesTeste = { 16, 18, 20, 25, 17 };
+int[] idadesTeste = { 16, 18, 20, 25, 17 };
 
 foreach (int idade in idadesTeste)
 {
@@ -155,9 +155,10 @@ foreach (int idade in idadesTeste)
     Console.WriteLine($"Idade: {idade} - Maior de idade? {resultado}");
 }
 
-exemplo.ExibirAltura();  */
+exemplo.ExibirAltura(); */
 
-class Program
+
+/* class Program
     {
         static void Main(string[] args)
         {
@@ -170,6 +171,6 @@ class Program
             // Calculando a área de um retângulo com largura 10 e altura 20
             calculadora.CalcularArea(10, 20);
         }
-    }
+    } */
 
 

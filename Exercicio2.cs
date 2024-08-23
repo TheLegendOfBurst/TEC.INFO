@@ -96,4 +96,103 @@ namespace CursoCSharp
     }
 
 
+    public class Calculadora
+    {
+        /* 13. Crie uma classe chamada Calculadora com um método Multiplicar que recebe dois
+        parâmetros do tipo int e retorna o resultado da multiplicação. */
+        public void Multiplicar(int numero1, int numero2)
+        {
+            int MultiplicaNum = numero1 * numero2;
+            Console.WriteLine($"O Resultado da soma foi {MultiplicaNum}");
+        }
+
+        /* 14. Adicione um método à classe Calculadora chamado Multiplicar que seja uma
+        sobrecarga, recebendo três parâmetros do tipo int e retornando o resultado da
+        multiplicação. */
+
+        public void Multiplicar(int numero1, int numero2, int numero3)
+        {
+            int MultiplicaNum = numero1 * numero2 * numero3;
+            Console.WriteLine($"O Resultado da soma foi {MultiplicaNum}");
+        }
+
+    }
+
+    public class Metodo
+    {
+        /* 15. Declare uma variável do tipo char chamada letra e atribua a ela a letra ‘A’. Imprima o
+        valor dessa variável no console.
+        */
+        public char letra = 'A';
+        public void ExibirLetra()
+        {
+            Console.WriteLine($"Letra: {letra}");
+        }
+    }
+
+    public class Loop
+    {
+        //16. Escreva um loop for que exiba os números de 1 a 10 no console.
+        public void LoopNumeros()
+        {
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+
+        //17. Implemente um loop while que exiba os números de 10 a 1 no console.
+        public void LoopWhile()
+        {
+            int i = 10;
+            while (i >= 0)
+            {
+                Console.WriteLine(i);
+                i--;
+            }
+        }
+
+        /* 18. Crie um método chamado ImprimirPares que receba um número inteiro como
+        parâmetro e imprima todos os números pares de 0 até o número passado como
+        parâmetro. */
+        public void ImprimirPares(int numero)
+        {
+            for (int i = 0; i <= numero; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+
+        }
+
+        /* 19. Escreva uma estrutura condicional que receba uma nota (variável do tipo double) e
+        imprima “ Aprovado”; se a nota for maior ou igual a 7, e “Reprovado”; caso contrário. */
+        public void AvaliarNota(double nota)
+        {
+            if (nota >= 7)
+            {
+                Console.WriteLine("Aprovado");
+            }
+            else
+            {
+                Console.WriteLine("Reprovado");
+            }
+        }
+
+        /* 20. Crie um método chamado Fatorial que receba um número inteiro como parâmetro e
+            retorne o fatorial desse número. Utilize um loop for para calcular o fatorial. */
+        public void Fatorial(int numero)
+        {
+            int fatorial = 1;
+            for (int i = 1; i <= numero; i++)
+            {
+                fatorial *= i;
+            }
+            Console.WriteLine($"O fatorial de {numero} é {fatorial}");
+        }
+
+    }
+
 }
